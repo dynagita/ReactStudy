@@ -2,10 +2,13 @@
 
 Project it's setted to connect into my own REST API published at my Heroku. I haven't publised the RestAPI code at github because the purpose is only study front-end at this project, then it's not necessary to publish that simple CRUD API.
 
+**There is no merge done to master, so, get development branch**
+
 ## Running Code
 <ol>
   <li>Certify you've already installed Node.js, NPM/yarn and react</li>
   <li>Clone this repository</li>
+  <li>Switch to development branch</li>
   <li>In your favorite prompt with project folder oppened, type: "npm start" or "yarn start" depends witch you use</li>
 </ol>
 
@@ -15,6 +18,7 @@ Projet will be running!
 <ol>
   <li>Certify docker is already installed on your PC</li>
   <li>Clone this repository</li>
+  <li>Switch to development branch</li>
   <li>In your favorite prompt with project folder oppened, type: docker build . -t reactstudy:latest</li>
   <li>After build done, type: docker run -v ${PWD}:/app -v /app/node_modules -p 3001:3000 --rm reactstudy:latest</li>
 </ol>
@@ -31,5 +35,3 @@ If your have any question I could help or something you did not agree about proj
   <li><a href="https://www.linkedin.com/in/daniel-yanagita-88860770/" target="_blank">Linked In</a></li>
   <li><a href="https://twitter.com/Daniel_Yanagita" target="_blank">Twitter</a></li>
 </ul>
-
-
