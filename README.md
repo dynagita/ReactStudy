@@ -1,8 +1,8 @@
+<h1><b>There is no merge done to master, so, get development branch</b></h1>
+
 # ReactStudy
 
 Project it's setted to connect into my own REST API published at my Heroku. I haven't publised the RestAPI code at github because the purpose is only study front-end at this project, then it's not necessary to publish that simple CRUD API.
-
-**There is no merge done to master, so, get development branch**
 
 ## Running Code
 <ol>
